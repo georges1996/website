@@ -1,0 +1,31 @@
+:root {
+  --main-color-1: #F3F2F0;
+  --main-color-2: #9597A6;
+  --main-color-3: #F76860;
+  --main-color-4: #937B72;
+  --main-color-5: #161D2A;
+  font-family: 'Overpass', sans-serif;
+}
+
+.text-color-1 {
+  color: var(--main-color-1);
+  font-family: 'Overpass', sans-serif;
+}
+
+.text-color-2 {
+  color: var(--main-color-5);
+  font-family: 'Overpass', sans-serif;
+}
+
+.intro-div {
+  background-color: var(--main-color-5);
+  width: 100%;
+  height: 100%;
+}
+
+.workxp-div {
+  background-color: var(--main-color-1);
+  width: 100%;
+  height: 100%;
+}
+
