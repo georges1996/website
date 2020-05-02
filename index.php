@@ -10,16 +10,18 @@
     <a class="navbar-brand text-color-2" href="/index.html">George Schena</a>
 </nav>
 
-<div class="jumbotron jumbotron-fluid jumbotron-dark-blue-background">
-  <div class="container">
-    <h1 class="display-3 text-center text-color-1">Hey I'm George Schena</h1>
-    <hr class="my-4 orange-background">
-    <p class="text-center text-color-1">Documenting my career through the technology industry</p>
+<div class="position-relative overflow-hidden p-md-1 mb-4 text-center jumbotron-dark-blue-background">
+  <div class="col-md-5 p-lg-5 mx-auto my-5 jumbotron-dark-blue-background">
+    <h1 class="display-4 font-weight-normal text-color-1">Hey I'm George Schena</h1>
+    <p class="lead font-weight-normal text-color-1">Documenting my career through the technology industry</p>
+    <a class="btn btn-outline-secondary" href="mailto:georgeschena@hotmail.com">Contact me</a>
   </div>
+  <div class="product-device shadow-sm d-none d-md-block"></div>
+  <div class="product-device product-device-2 shadow-sm d-none d-md-block"></div>
 </div>
 
 <div class="container-fluid">
-  <div class="row">
+  <div class="row mb-4">
     <div class="col-2">
       <img src="./images/mhclg.png" class="align-self-start mr-3 img-thumbnail">
     </div>
@@ -36,4 +38,70 @@
       </ul>
     </div>
   </div>
+  <div class="row mb-4">
+    <div class="col-2">
+      <img src="./images/moj.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0">Ministry of Justice UK</h5>
+      <h6>Money to Prisoners Service</h6>
+      <p>Joining the HMPPS Prisoner Money team and Integrating with the existing MoJ development team we focused on how to
+        allow prisoners to send and receive money and allow officers to monitor transactions from both parties,
+        and allowing them to reject and approve transactions through our system. Requirements ranged from putting
+        a spending cap on the virtual bank account for prisoners to allowing fraud prevention agencies to analyse where
+        fraud may be taking place within these systems and stop it as well as further features to extend the application.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Python</li>
+        <li>Django</li>
+        <li>Kubernetes</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col-2">
+      <img src="./images/hackney.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0">London Borough of Hackney</h5>
+      <h6>Hackney Manage Arrears System</h6>
+      <p>Developing and maintaining an existing Hackney Manage arrears system,
+        developed with multiple micro services written in Ruby and C#.
+        As well as conducting constant user research to improve the existing
+        system to meet the needs of its many users.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Ruby</li>
+        <li>Ruby on Rails</li>
+        <li>C#</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col-2">
+      <img src="./images/gds.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0">Government Digital Service</h5>
+      <h6>GovWifi</h6>
+      <p>Rewrote GovWifi from a PHP monolith to a Ruby based set of micro-services, alongside working with the Government Digital Service (GDS)
+        we developed the authentication system which used FreeRADIUS to allow staff and visitors to use a single user login to connect to GovWifi
+        across multiple government and public sector organisations. As part of this we also developer an administration system with Ruby on Rails
+        to allow organisations to manage their infrastructure, team and users.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Ruby</li>
+        <li>Ruby on Rails</li>
+        <li>PHP</li>
+      </ul>
+    </div>
+  </div>
 </div>
+<footer class="footer">
+  <div class="container-fluid dark-blue-background py-4">
+    <span class="text-color-1">Thanks for visiting</span>
+  </div>
+</footer>
