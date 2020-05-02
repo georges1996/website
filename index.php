@@ -7,7 +7,7 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand text-color-2" href="/index.html">George Schena</a>
+    <a class="navbar-brand text-color-2" href="/">George Schena</a>
 </nav>
 
 <div class="position-relative overflow-hidden p-md-1 mb-4 text-center jumbotron-dark-blue-background">
