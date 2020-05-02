@@ -29,3 +29,12 @@
 .dark-blue-background {
   background-color: var(--main-color-5);
 }
+
+@media only screen and (max-width: 700px) {
+  .col-2 {
+    display: none;
+  }
+  .col-10 {
+    margin-left: 20px;
+  }
+}
