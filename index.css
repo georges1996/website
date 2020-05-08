@@ -22,6 +22,10 @@
   background-color: var(--main-color-5) !important;
 }
 
+.jumbotron-white-background {
+  background-color: var(--main-color-1) !important;
+}
+
 .orange-background {
   background-color: var(--main-color-3);
 }
