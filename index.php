@@ -69,6 +69,25 @@
   </div>
   <div class="row mb-4">
     <div class="col-2">
+      <img src="./images/nhs.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0 text-color-3">National Health Service</h5>
+      <h6>NHS COVID-19 Virtual Visit: April 2020 - April 2020 (1 week)</h6>
+      <p>Part of a small team to deliver a virtual conferencing application for the NHS to allow COVID-19 patients to see and speak
+        to their loved ones outside of hospital. Leveraging the NHS design system we created a branded NHS application
+        which was used across 50 wards in the United Kingdom. This project was done for free to help with the COVID-19 pandemic.
+      </p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>Heroku</li>
+        <li>JavaScript</li>
+        <li>Next.js</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col-2">
       <img src="./images/moj.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
