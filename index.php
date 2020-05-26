@@ -63,6 +63,7 @@
       <ul>
         <li>AWS</li>
         <li>Ruby</li>
+        <li>Ruby on Rails</li>
         <li>Sinatra</li>
       </ul>
     </div>
