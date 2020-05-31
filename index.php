@@ -8,8 +8,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <a class="navbar-brand text-color-2" href="/">George Schena</a>
+<nav class="navbar navbar-light bg-light ">
+  <a class="navbar-brand text-color-2" href="index.php">George Schena</a>
+  <div class="navbar-right">
+    <a class="navbar-item text-color-2" href="posts.php">Posts</a>
+  </div>
 </nav>
 
 <div class="position-relative overflow-hidden p-md-1 text-center jumbotron-dark-blue-background">
