@@ -165,10 +165,10 @@ $request = $_SERVER['REQUEST_URI'];
 
 switch ($request) {
     case '/' :
-        require __DIR__ . '/views/index.php';
+        require __DIR__ . '/index.php';
         break;
     case '' :
-        require __DIR__ . '/views/index.php';
+        require __DIR__ . '/index.php';
         break;
     case '/posts' :
         require __DIR__ . '/views/posts.php';
