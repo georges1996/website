@@ -16,7 +16,7 @@
 </nav>
 
 <div class="container-fluid">
-  <div class="row mb-4 mr-3">
+  <div class="row mb-4">
     <div class="col-10">
       <h5 class="mt-5 text-color-3">Client Characterisation Theory</h5>
       <h6>Monday 1st June 2020</h6>
