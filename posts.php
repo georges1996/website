@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../index.css">
+<link rel="stylesheet" href="index.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 <script src="https://use.fontawesome.com/1fe55a52b0.js"></script>
@@ -16,11 +16,11 @@
 </nav>
 
 <div class="container-fluid">
-  <div class="row mb-4">
+  <div class="row mb-4 mr-3">
     <div class="col-10">
-      <h5 class="mt-0 text-color-3"></h5>
-      <h6>Client Experience Characterisation: Monday 1st June 2020</h6>
-      <p>My first blog post incoming...</p>
+      <h5 class="mt-5 text-color-3">Client Characterisation Theory</h5>
+      <h6>Monday 1st June 2020</h6>
+      <p class="mt-4">My first blog post incoming..</p>
     </div>
   </div>
 </div>
