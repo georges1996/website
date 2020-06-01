@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="../index.css">
+<link rel="stylesheet" href="index.css">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
 <script src="https://use.fontawesome.com/1fe55a52b0.js"></script>
@@ -55,7 +55,7 @@
 <div class="container-fluid">
   <div class="row mb-4">
     <div class="col-2">
-      <img src="../images/mhclg.png" class="align-self-start mr-3 img-thumbnail">
+      <img src="./images/mhclg.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">Ministry of Housing, Communities and Local Government</h5>
@@ -73,7 +73,7 @@
   </div>
   <div class="row mb-4">
     <div class="col-2">
-      <img src="../images/nhs.png" class="align-self-start mr-3 img-thumbnail">
+      <img src="./images/nhs.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">National Health Service</h5>
@@ -92,7 +92,7 @@
   </div>
   <div class="row mb-4">
     <div class="col-2">
-      <img src="../images/moj.png" class="align-self-start mr-3 img-thumbnail">
+      <img src="./images/moj.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">Ministry of Justice UK</h5>
@@ -113,7 +113,7 @@
   </div>
   <div class="row mb-4">
     <div class="col-2">
-      <img src="../images/hackney.png" class="align-self-start mr-3 img-thumbnail">
+      <img src="./images/hackney.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">London Borough of Hackney</h5>
@@ -133,7 +133,7 @@
   </div>
   <div class="row mb-4">
     <div class="col-2">
-      <img src="../images/gds.png" class="align-self-start mr-3 img-thumbnail">
+      <img src="./images/gds.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">Government Digital Service</h5>
