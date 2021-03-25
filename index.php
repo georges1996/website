@@ -33,19 +33,15 @@
 <div class="position-relative overflow-hidden p-md-1 mb-4 text-center jumbotron-white-background ">
   <div class="col-md-10 p-lg-5 mx-auto my-2">
     <p class="font-weight-normal text-color-2">
-      As a passionate polyglot software engineer I want to build software that directly impacts the users and improves their lives.
-      I love constantly learning as well as learning from more experienced engineers in my field, as well as
-      striving to become a better
-      engineer everyday.
+      As a generalist software engineer who has experience writing efficient and maintainable software in a number of
+      languages across a number of paradigms, I want to build software that directly impacts the users and improves lives.
+      I strive to constantly learn new things everyday as well as learning from more experienced engineers in my field,
+      as well as striving to become a better engineer everyday.
       <br>
-      I have worked across a number of large scale projects affecting tens of thousands of users across multiple
-      areas ranging from GovWifi
-      which is used across every government building in England to MHCLG which is redefining the way users view
-      their Domestic Energy Performance Certificates.
+      I have developed software solutions across a number of large scale projects affecting tens of thousands of users across multiple areas ranging from GovWifi which is used across every government building in England to MHCLG which is redefining the way users manage their Domestic Energy Performance Certificates.
       <br>
-      As a polyglot engineer I provide the ability to be dropped into any problem and be able to adapt and
-      earn the domain and technical knowledge
-      in a short space of time, in order to deliver value for the client from day one.
+      As a generalist software engineer I provide the ability to be dropped into any problem and be able to adapt and learn the domain and technical
+      knowledge in a short space of time, in order to deliver value for the client from day one.
     </p>
   </div>
   <div class="product-device shadow-sm d-none d-md-block"></div>
@@ -55,11 +51,31 @@
 <div class="container-fluid">
   <div class="row mb-4">
     <div class="col-2">
+      <img src="./images/raytheon.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0 text-color-3">Raytheon UK</h5>
+      <h6>Undisclosed Project: November 2020 - April 2021 (6 months)</h6>
+      <p>Joined a well established agile team in order to assist with the development and critical sustain of two large-scale document management applications.
+        A large part of my time was spent migrating one of the document management applications from an on-premises data center to the cloud using AWS.
+        I was overseeing and undertaking the architecture design and implementation of this solution. By moving the application to the cloud, the team and I where able to save the client around 56% off their monthly bill.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Scala</li>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>React</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col-2">
       <img src="./images/mhclg.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">Ministry of Housing, Communities and Local Government</h5>
-      <h6>Energy Performance of Buildings Register (EPC): April 2020 - Present</h6>
+      <h6>Energy Performance of Buildings Register (EPC): April 2020 - November 2020 (7 months)</h6>
       <p>A large scale data migration leveraging AWS's Snowball to transfer data using our own reusable ETL pipeline for the transfer of data.
         As part of this we also developed a range of new micro-services in order to for the old system to interact with the new system to allow for a seamless gradual changeover.</p>
       <h6>Technology Used:</h6>
@@ -96,7 +112,7 @@
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">Ministry of Justice UK</h5>
-      <h6>Money to Prisoners Service: Feb 2020 - April 2020 (3 months)</h6>
+      <h6>Money to Prisoners Service: Febuary 2020 - April 2020 (3 months)</h6>
       <p>Joining the HMPPS Prisoner Money team and Integrating with the existing MoJ development team we focused on how to
         allow prisoners to send and receive money and allow officers to monitor transactions from both parties,
         and allowing them to reject and approve transactions through our system. Requirements ranged from putting
