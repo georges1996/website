@@ -51,6 +51,24 @@
 <div class="container-fluid">
   <div class="row mb-4">
     <div class="col-2">
+      <img src="./images/sage.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0 text-color-3">Sage</h5>
+      <h6>Sage One Payroll: April 2021 - August 2021 (5 months)</h6>
+      <p>Developing and maintaining Sage One Payroll to allow small to medium sized businesses too confidently manage their payroll with security, accuracy and compliance.
+        The application is comprised of Ruby on Rails applications with the use of React and Carbon for many frontend components. All backed on AWS.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Ruby on Rails</li>
+        <li>JavaScript</li>
+        <li>React</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col-2">
       <img src="./images/raytheon.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
@@ -81,7 +99,6 @@
       <h6>Technology Used:</h6>
       <ul>
         <li>AWS</li>
-        <li>Ruby</li>
         <li>Ruby on Rails</li>
         <li>Sinatra</li>
       </ul>
@@ -141,7 +158,6 @@
       <h6>Technology Used:</h6>
       <ul>
         <li>AWS</li>
-        <li>Ruby</li>
         <li>Ruby on Rails</li>
         <li>C#</li>
       </ul>
@@ -161,7 +177,6 @@
       <h6>Technology Used:</h6>
       <ul>
         <li>AWS</li>
-        <li>Ruby</li>
         <li>Ruby on Rails</li>
         <li>PHP</li>
       </ul>
