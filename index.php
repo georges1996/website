@@ -49,13 +49,39 @@
 </div>
 
 <div class="container-fluid">
+<div class="row mb-4">
+    <div class="col-2">
+      <img src="./images/moj.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0 text-color-3">Ministry of Justice UK (MoJ)</h5>
+      <h6>Prisoner Escort Custody Service (PECS): January 2022 - August 2022 (8 months)</h6>
+      <p>Developing and maintaining the Prisoner Escort Custody Service (PECS) which is a set of Ruby, Node,
+        React and Kotllin micro-services in order to allow UK suppliers to move prisoners safely around the country.
+        As part of these services it allows MoJ to track each move and produce a financial report to pay the suppliers.
+        The services are hosted in AWS using ECS and Docker. In addition we leveraged a number of AWS services such as Lambda
+        functions in order to run daily jobs to process our API data and move it into another system, this would be stored in S3
+        for further analysis, as well as for auditing purposes. We also used SNS so whenever a specific event was fired off in our
+        frontend application, this would then trigger a Lambda function to update data within our database.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Ruby on Rails</li>
+        <li>JavaScript</li>
+        <li>Node</li>
+        <li>Kotllin</li>
+        <li>Kubernetes</li>
+        <li>Docker</li>
+      </ul>
+    </div>
+  </div>
   <div class="row mb-4">
     <div class="col-2">
       <img src="./images/defra.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">Department for Environment, Food and Rural Affairs (DEFRA)</h5>
-      <h6>Project Application and Funding Service (PAFS): August 2021 - Jan 2022 (6 months)</h6>
+      <h6>Project Application and Funding Service (PAFS): August 2021 - Januaryuary 2022 (6 months)</h6>
       <p>As the sole Ruby engineer who worked closely with users and clients, my role was to innovate,
         maintain and extend the Project Application and Funding Service (PAFS). PAFS is essentially a data
         capturing application tool hosted on GOV.UK, which would take in key data/metrics to then decide if an
@@ -175,7 +201,7 @@
     </div>
     <div class="col-10">
       <h5 class="mt-0 text-color-3">London Borough of Hackney</h5>
-      <h6>Hackney Manage Arrears System: Aug 2019 - Jan 2020 (6 months)</h6>
+      <h6>Hackney Manage Arrears System: Aug 2019 - January 2020 (6 months)</h6>
       <p>Developing and maintaining an existing Hackney Manage arrears system,
         developed with multiple micro services written in Ruby and C#.
         As well as conducting constant user research to improve the existing
