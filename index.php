@@ -49,7 +49,17 @@
 </div>
 
 <div class="container-fluid">
-<div class="row mb-4">
+  <div class="row mb-4">
+    <div class="col-2">
+      <img src="./images/sb.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0 text-color-3">Simply Business</h5>
+      <h6>Simply Business: August 2022 - Current</h6>
+      <p></p>
+    </div>
+  </div>
+  <div class="row mb-4">
     <div class="col-2">
       <img src="./images/moj.png" class="align-self-start mr-3 img-thumbnail">
     </div>
