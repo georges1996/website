@@ -33,15 +33,14 @@
 <div class="position-relative overflow-hidden p-md-1 mb-4 text-center jumbotron-white-background ">
   <div class="col-md-10 p-lg-5 mx-auto my-2">
     <p class="font-weight-normal text-color-2">
-      As a generalist software engineer who has experience writing efficient and maintainable software in a number of
-      languages across a number of paradigms, I want to build software that directly impacts the users and improves lives.
-      I strive to constantly learn new things everyday as well as learning from more experienced engineers in my field,
-      as well as striving to become a better engineer everyday.
+      As a generalist software engineer who has experience writing efficient and maintainable software in a number of languages across a number of paradigms, I want to build software that directly impacts the users and improves lives.
+      I strive to constantly learn new things everyday as well as learning from more experienced engineers in my field, as well as striving to become a better engineer everyday.
       <br>
-      I have developed software solutions across a number of large scale projects affecting tens of thousands of users across multiple areas ranging from GovWifi which is used across every government building in England to MHCLG which is redefining the way users manage their Domestic Energy Performance Certificates.
+      I have consulted across a number of large scale projects affecting tens of thousands of users across multiple areas ranging from GovWifi which is used across every government building in England to MHCLG which is redefining the way users manage their Domestic Energy Performance Certificates.
       <br>
-      As a generalist software engineer I provide the ability to be dropped into any problem and be able to adapt and learn the domain and technical
-      knowledge in a short space of time, in order to deliver value for the client from day one.
+      I am proficient in the use of AWS and its various services, and have used these skills across various large scale applications, allowing myself to be spread across the frontend, backend and infrastructure of any team.
+      <br>
+      As a generalist software engineer I provide the ability to be dropped into any problem and be able to adapt and learn the domain and technical knowledge in a short space of time, in order to deliver value for the client from day one.
     </p>
   </div>
   <div class="product-device shadow-sm d-none d-md-block"></div>
