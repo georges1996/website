@@ -51,6 +51,31 @@
 <div class="container-fluid">
   <div class="row mb-4">
     <div class="col-2">
+      <img src="./images/defra.png" class="align-self-start mr-3 img-thumbnail">
+    </div>
+    <div class="col-10">
+      <h5 class="mt-0 text-color-3">Department for Environment, Food and Rural Affairs (DEFRA)</h5>
+      <h6>Project Application and Funding Service (PAFS): August 2021 - Jan 2022 (6 months)</h6>
+      <p>As the sole Ruby engineer who worked closely with users and clients, my role was to innovate,
+        maintain and extend the Project Application and Funding Service (PAFS). PAFS is essentially a data
+        capturing application tool hosted on GOV.UK, which would take in key data/metrics to then decide if an
+        application was eligible for funding. This application was the entry point to allow councils and risk management
+        authorities to apply for funding which would then subsequently be sent to various other applications to be processed further.
+        PAFS was hosted on AWS and was a set of Ruby on Rails applications. We levered the use of Amazon API Gateway,
+        in order to manage our RESTful API's for our various user types and for our own frontend application.
+        We used Kubernetes to deal with the orchestration of these various services.</p>
+      <h6>Technology Used:</h6>
+      <ul>
+        <li>AWS</li>
+        <li>Ruby on Rails</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Kubernetes</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row mb-4">
+    <div class="col-2">
       <img src="./images/sage.png" class="align-self-start mr-3 img-thumbnail">
     </div>
     <div class="col-10">
